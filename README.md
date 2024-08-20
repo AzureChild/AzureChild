@@ -7,6 +7,7 @@ I'm a pretty down to earth guy.
 ### Currently looking to learn
  - ⚛ React Native
  - © C# and .NET
+ - Unity (or similar)
 
 **In the meantime you can find me doing standard nerd things like**
  - 🎲Board Games
